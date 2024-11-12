@@ -1,8 +1,6 @@
 # python-api-challenge
 
-naconda environment
-
-Jupyter notenook pyhton 3
+Anaconda environment - Jupyter notenook pyhton 3
 
 
 Make sure the following are installed:
