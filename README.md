@@ -11,7 +11,7 @@ pip install hvplot in VacationPy
 pip install bokeh in VacationPy
 (install all dependencies you need)
 
-Make sure to use your own API Keys
+Make sure to use your own API Keys: file api_keys.py
 
 evidence of the maps in VacationPy working:
 ![image](https://github.com/user-attachments/assets/5bb53f17-f83b-424e-89c8-00c5b4588c3f)
